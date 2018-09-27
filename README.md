@@ -1,5 +1,5 @@
-# pyTelegramBot
-Telegram bot на Python
+# <p align="center">pyTelegramBot
+<p align="center">Telegram bot на Python
 
 * [Выбор реализации Telegram Bot API](#Выбор-реализации-telegram-bot-api)
     * [python-telegram-bot](#python-telegram-bot)

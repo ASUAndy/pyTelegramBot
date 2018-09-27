@@ -1,7 +1,11 @@
 # <p align="center">pyTelegramBot
 <p align="center">Telegram bot на Python
 
-* [Выбор реализации Telegram Bot API.](#Выбор-реализации-Telegram-Bot-API)
+* [Выбор реализации Telegram Bot API](#Выбор-реализации-Telegram-Bot-API)
+    * [python-telegram-bot](#python-telegram-bot)
+    * [pyTelegramBotAPI](#pyTelegramBotAPI)
+    * [aiogram](#aiogram)
+    * [.NET Client for Telegram Bot API](#NET-Client-for-Telegram-Bot-API)
 
 # Выбор реализации Telegram Bot API
 

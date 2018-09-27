@@ -1,5 +1,5 @@
-# <p align="center">pyTelegramBot
-<p align="center">Telegram bot на Python
+# pyTelegramBot
+Telegram bot на Python
 
 * [Выбор реализации Telegram Bot API](#Выбор-реализации-telegram-bot-api)
     * [python-telegram-bot](#python-telegram-bot)
@@ -45,6 +45,8 @@
 
 ## .NET Client for Telegram Bot API
 [Репозиторий проекта на GitHUB](https://github.com/TelegramBots/Telegram.Bot)
+
+У пользователя [Telegram Bots[](https://github.com/TelegramBots) есть репозитории с документацией и с примерами.
 
 * .NET Client для [Telegram Bot API](https://core.telegram.org/bots/api)
 * Ссылка на документацию на английском есть в репозитории
